@@ -15,7 +15,7 @@ Aplikasi pencarian film sederhana berbasis HTML, CSS, dan JavaScript. Data penca
 
 - HTML
 - CSS
-- JavaScript ES Modules
+- JavaScript 
 - OMDb API
 
 ## Menjalankan aplikasi
