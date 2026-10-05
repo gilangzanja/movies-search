@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Sci-Fi, Thriller",
+    "poster": "https://placehold.co/300x450?text=Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing technology is given an inverse task."
+  },
+  {
+    "id": "2",
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-Fi, Drama",
+    "poster": "https://placehold.co/300x450?text=Interstellar",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action, Crime",
+    "poster": "https://placehold.co/300x450?text=Dark+Knight",
+    "description": "Batman faces a criminal mastermind who plunges Gotham City into chaos."
+  },
+  {
+    "id": "4",
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "genre": "Action, Adventure",
+    "poster": "https://placehold.co/300x450?text=Avengers",
+    "description": "The Avengers assemble once more to reverse the devastating actions of Thanos."
+  },
+  {
+    "id": "5",
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "genre": "Action, Adventure",
+    "poster": "https://placehold.co/300x450?text=Spider-Man",
+    "description": "Spider-Man's identity is revealed, bringing villains from different universes into his world."
+  },
+  {
+    "id": "6",
+    "title": "Joker",
+    "year": "2019",
+    "genre": "Crime, Drama",
+    "poster": "https://placehold.co/300x450?text=Joker",
+    "description": "A troubled man gradually descends into a life of crime and becomes the Joker."
+  },
+  {
+    "id": "7",
+    "title": "The Matrix",
+    "year": "1999",
+    "genre": "Sci-Fi, Action",
+    "poster": "https://placehold.co/300x450?text=The+Matrix",
+    "description": "A computer hacker discovers that reality is a simulated world and joins a rebellion against its controllers."
+  },
+  {
+    "id": "8",
+    "title": "Parasite",
+    "year": "2019",
+    "genre": "Thriller, Drama",
+    "poster": "https://placehold.co/300x450?text=Parasite",
+    "description": "A poor family gradually becomes entangled with a wealthy household, with unexpected consequences."
+  },
+  {
+    "id": "9",
+    "title": "Dune",
+    "year": "2021",
+    "genre": "Sci-Fi, Adventure",
+    "poster": "https://placehold.co/300x450?text=Dune",
+    "description": "A young heir travels to a dangerous desert planet whose valuable resource holds the fate of the galaxy."
+  },
+  {
+    "id": "10",
+    "title": "Coco",
+    "year": "2017",
+    "genre": "Animation, Family",
+    "poster": "https://placehold.co/300x450?text=Coco",
+    "description": "An aspiring young musician journeys to the Land of the Dead to uncover his family's history."
+  }
+]
